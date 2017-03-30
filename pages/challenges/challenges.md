@@ -18,5 +18,5 @@ Data will still be available after challenges are closed so you can still work o
 The winnings vary depending on the complexity of the challenge so be sure to check what the winnings are on each challenge.
 
 Happy image processing!  
-Malia, Max and Noah  
+Malia and Noah  
 The PlantCV Development Team
