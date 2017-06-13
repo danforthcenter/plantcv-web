@@ -1,7 +1,6 @@
 # Site settings
 title: PlantCV
 baseurl: ''
-# url: http://plantcv.danforthcenter.org/
 
 # Build settings
 markdown: kramdown
