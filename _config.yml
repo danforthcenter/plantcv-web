@@ -9,4 +9,4 @@ highlighter: rouge
 # Jekyll-Bootstrap
 JB:
     version: 2.0.3
-    BASE_PATH : http://plantcv.danforthcenter.org/
+    BASE_PATH : https://plantcv.danforthcenter.org/
