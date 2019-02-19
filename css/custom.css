@@ -23,6 +23,11 @@ td{
 }
 */
 
+p, ul, li {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
 .sub-header {
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
