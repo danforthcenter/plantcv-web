@@ -39,12 +39,12 @@ p, ul, li {
 
 
 .gsc-input {
-  
+
   width:300px;
   display:block;
   margin:0px;
   padding:0px;
-  
+
 }
 
 
@@ -55,7 +55,7 @@ p, ul, li {
 }
 
 .gsc-control-wrapper-cse {
-  
+
   width:300px;
   height:30px;
   padding:0px;
@@ -72,7 +72,7 @@ p, ul, li {
 
 #___gcse_0{
  width:300px;
- padding:0px; 
+ padding:0px;
 }
 
 #cse-hosted{
@@ -185,4 +185,8 @@ p, ul, li {
   padding-top: 11px;
   padding-left: 45px;
   padding-right: 20px;
+}
+
+h2#stats {
+    margin-top: 0;
 }
